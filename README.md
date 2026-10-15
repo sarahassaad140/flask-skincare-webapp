@@ -81,7 +81,6 @@ A desktop homepage concept was created using **Figma** to explore a cleaner and 
 
 ### Figma Homepage Preview
 
-![Skincare Heaven Figma Homepage](design/skincare-homepage.png)
 
 The Figma design is a UI/UX concept and is not presented as a fully implemented replacement for the existing Flask frontend.
 
